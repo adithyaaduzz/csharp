@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../Hw6/Hw6.csproj" Id="116ecc5e-da49-4046-8cd1-bd4f96a10066" />
+  <Project Path="../Userinput/Userinput.csproj" />
   <Project Path="Clswrk6.csproj" />
 </Solution>
