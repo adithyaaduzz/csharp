@@ -1,12 +1,13 @@
 ﻿using System;
-class PatternProgram
+class Multiplication
 {
     public static void Main()
+
     {
         int N = 3;
-        for (int i = 1; i <= N; i++)
+        for(int i = 1; i <=N; i++)
         {
-            for (int j = 1; j <= i; j++)
+            for (int j = 1; j <=i; j++)
             {
                 Console.Write("*");
             }
